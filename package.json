@@ -1,0 +1,12 @@
+{
+  "name": "questify-backend",
+  "version": "1.0.0",
+  "description": "Backend functions for Questify alliance notifications",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^11.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^15.0.0"
+  }
+}
